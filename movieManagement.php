@@ -58,7 +58,6 @@ function getInputValue($name) {
             <div class="column">
 
                 <div class="header">
-                    <img src="assets/images/logo.png" title="Logo" alt="Site logo" />
                 </div>
 
                 <form method="POST">
